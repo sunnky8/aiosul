@@ -1,0 +1,13 @@
+.DS_Store
+images/*
+!/images/.gitignore
+!/images/logo_name.png
+!/images/logo.png
+*.pyc
+db.sqlite3
+venv/
+logs/*
+!/logs/.gitignore
+*.log
+node_modules/
+mark_train/local_settings.py
